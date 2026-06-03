@@ -1,5 +1,6 @@
 # ⚙️ Task 03: Prompting for Task Automation
-
+![Header](https://github.com/user-attachments/assets/02bbd33e-f3df-42bb-bfc5-e6919bce2faa
+)
 ![Data Extraction](https://img.shields.io/badge/Skill-Data_Extraction-red?style=for-the-badge)
 ![JSON Output](https://img.shields.io/badge/Format-Strict_JSON-yellow?style=for-the-badge)
 
